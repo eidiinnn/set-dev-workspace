@@ -1,0 +1,3 @@
+[ 
+    {"name": "exemplo-cmd", "command": "start cmd /k \"echo Hello World"}
+]
